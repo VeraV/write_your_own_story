@@ -52,7 +52,7 @@ Echo Diary doesn’t judge — it listens, reflects, and helps you find your emo
 Clone the Repository
 Set Up Environment Variables
 Create a .env file in /backend:
-OPENAI_API_KEY=your_api_key_here
+VITE_GEMINI_API_KEY=your_api_key_here
 
 ## 🧠 How It Works
 

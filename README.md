@@ -1,6 +1,6 @@
 # 🌿 Echo Diary — AI-Powered Emotional Journaling
 
-**Live Demo:** [https://echodairy.netlify.app](https://echodairy.netlify.app)
+**Live Demo:** [https://echodairy.netlify.app](https://write-your-own-story.netlify.app/)
 
 Echo Diary is a mindful journaling app that blends **human emotion and artificial intelligence**.  
 You write your thoughts and feelings for the day — and **Echo** gently responds with empathy, reflection, and supportive insights.

@@ -39,7 +39,7 @@ function AboutUsPage() {
         </a>
 
         <a
-          href=" https://www.linkedin.com/in/vera-veramei-5757b257/"
+          href="https://www.linkedin.com/in/veramei-webdeveloper/"
           target="_blank"
         >
           <article>
